@@ -1,6 +1,3 @@
-
-# Discord to Google Drive
-
 A discord bot to upload message attachments to Google Drive
 
 
