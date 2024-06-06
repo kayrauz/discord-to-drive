@@ -1,5 +1,6 @@
-A discord bot to upload message attachments to Google Drive
+A discord bot to upload message attachments to Google Drive 
 
+(still work in progress but all functions should work fine as long as everything is done properly. More optimizations and features will be added when I have spare time)
 
 ### Create a config.json file
 
