@@ -40,6 +40,6 @@ You can get your discord channel ID by simply right clicking on a text channel a
 
 #### **How to get your Discord bot token**
 
-You can get your bot token through Discord Developer Portal
+You can get your bot token through Discord Developer Portal.
 
 
